@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+vtn.chocoslim.pro	TRUE	/	FALSE	1999999999	offer_7000_user_id	47
+vtn.chocoslim.pro	TRUE	/	FALSE	1999999999	offer_id_7000	1
+
